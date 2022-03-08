@@ -13,7 +13,7 @@ def convert_bool_to_answer(argument: bool):
 def display_list(values: List, indent=""):
     """Display the provided list when iterating and printing every indented value."""
     # TODO: Iterate through all of the values inside of the list,
-    # displaying them in the following fashion as show in the project
+    # displaying them in the following fashion as shown in the project
     # description on the Proactive Programmers web site:
     # https://proactiveprogrammers.com/discrete-structures/engineering-efforts/iterative-exponentiation/
     # TODO: ensure that the output is indented by the numbers of spaces in the indent
