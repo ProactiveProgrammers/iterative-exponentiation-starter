@@ -17,7 +17,7 @@ TODO: Use a fenced code block to provide the output for your this command for ru
 
 TODO: Use a fenced code block to provide the output for your this command for running the `iterator`.
 
-- `poetry run python iterator --forloop --minimum 0 --maximum 5`
+- `poetry run iterator --forloop --minimum 0 --maximum 5`
 
 TODO: Use a fenced code block to provide the output for your this command for running the `iterator`.
 
