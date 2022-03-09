@@ -44,7 +44,3 @@ def main(
     # display a final message and some extra spacing
     typer.echo("Wow, all of that iteration was exhausting! 😂")
     typer.echo("")
-
-
-if __name__ == "__main__":
-    typer.run(main)
