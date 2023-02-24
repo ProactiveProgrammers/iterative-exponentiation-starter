@@ -1,7 +1,7 @@
 # Iterative Exponentiation
 
 TODO: Make sure that you completely delete all of the TODO markers and sentences
-inside of this document. After you are finished writing all of the answer in
+inside of this document. After you are finished writing all of the answers in
 your reflection it should have a professional format and be ready for
 publication on your own web site.
 
