@@ -3,7 +3,9 @@
 from iterator import iterate
 
 # TODO: Make sure that you understand how all of these test cases work.
-
+# TODO: Please consider adding comments to these test cases so that
+# you can record notes about why they are needed and the steps that
+# you needed to take to get your program to pass these tests.
 
 def test_for_loop_iterate_one_value():
     """Ensure that the for loop iterator returns a single value."""
