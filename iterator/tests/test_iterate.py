@@ -2,6 +2,8 @@
 
 from iterator import iterate
 
+# TODO: Make sure that you understand how all of these test cases work.
+
 
 def test_for_loop_iterate_one_value():
     """Ensure that the for loop iterator returns a single value."""
