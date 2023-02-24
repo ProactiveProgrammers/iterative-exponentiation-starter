@@ -8,6 +8,10 @@ from iterator import iterate
 # create a Typer object to support the command-line interface
 cli = typer.Typer()
 
+# TODO: Read all of the source code inside of this file
+# and make sure that you understand it and how it uses
+# the Python source code provided in other files
+
 
 @cli.command()
 def main(
