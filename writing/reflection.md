@@ -11,15 +11,15 @@ publication on your own web site.
 
 ### What is the output from running the `iterator` program?
 
-TODO: Use a fenced code block to provide the output for your this command for running the `iterator`.
+TODO: Use a fenced code block to provide the output from this command for running the `iterator`.
 
 - `poetry run iterator --whileloop --forloop --minimum 2 --maximum 10`
 
-TODO: Use a fenced code block to provide the output for your this command for running the `iterator`.
+TODO: Use a fenced code block to provide the output from this command for running the `iterator`.
 
 - `poetry run iterator --forloop --minimum 0 --maximum 5`
 
-TODO: Use a fenced code block to provide the output for your this command for running the `iterator`.
+TODO: Use a fenced code block to provide the output from this command for running the `iterator`.
 
 - `poetry run iterator --whileloop --minimum 2 --maximum 10`
 
