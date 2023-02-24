@@ -35,7 +35,7 @@ TODO: Use a fenced code block to provide the output from running the test suite
 
 TODO: Write at least one paragraph to explain the source code
 
-```
+```python
 def main(
     forloop: bool = typer.Option(False, "--forloop"),
     whileloop: bool = typer.Option(False, "--whileloop"),
@@ -46,7 +46,7 @@ def main(
 
 #### What is the purpose of the following function in the context of the `iterator` program?
 
-```
+```python
 def convert_bool_to_answer(argument: bool):
     """Return a string-based and human-readable representation of a bool."""
     if argument:
