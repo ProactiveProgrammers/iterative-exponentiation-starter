@@ -12,6 +12,23 @@ cli = typer.Typer()
 # and make sure that you understand it and how it uses
 # the Python source code provided in other files
 
+# TODO: Make sure that your program works when the specified
+# minimum value is not zero! For instance, the program should
+# work correctly when the minimum value is 2 and the maximum
+# value is 10. This would mean that the program startx to compute
+# the value of 2**2 and then stops after computing 2**9.
+#
+# Here is an example for these specific inputs:
+#
+# 2**2 = 4
+# 2**3 = 8
+# 2**4 = 16
+# 2**5 = 32
+# 2**6 = 64
+# 2**7 = 128
+# 2**8 = 256
+# 2**9 = 512
+
 
 @cli.command()
 def main(
