@@ -7,6 +7,7 @@ from iterator import iterate
 # you can record notes about why they are needed and the steps that
 # you needed to take to get your program to pass these tests.
 
+
 def test_for_loop_iterate_one_value():
     """Ensure that the for loop iterator returns a single value."""
     expected_powers_list = [2**0]
